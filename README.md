@@ -1,6 +1,4 @@
 # MR-Demo
-This is My first Git Repository.
+This is My first Git Test Repository.
 <br>
-We will explore it.
-<br>
-Author: Mohd Rizwan Shaikh
+By: M Rizwan
