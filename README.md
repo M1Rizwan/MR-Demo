@@ -1,4 +1,4 @@
 # MR-Demo
-This is My first Git Test Repository.
+This is Intial Test Repository.
 <br>
 
