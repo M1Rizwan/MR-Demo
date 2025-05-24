@@ -1,4 +1,4 @@
 # MR-Demo
-This is Intial Test Repository.
+This is Initial Test Repository.
 <br>
 
