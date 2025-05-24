@@ -1,2 +1,2 @@
 
-# This is test file for branch feat1.
+# This is test file.
